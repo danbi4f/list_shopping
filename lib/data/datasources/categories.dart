@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:list_shopping/data/models/categories.dart';
+import 'package:list_shopping/data/models/category.dart';
 
 final categories = {
   Categories.vegetables: Category(
@@ -43,3 +43,5 @@ final categories = {
     const Color.fromARGB(255, 0, 225, 255),
   ),
 };
+
+var  cat = {Categories.spices: Category('', Colors.black)};

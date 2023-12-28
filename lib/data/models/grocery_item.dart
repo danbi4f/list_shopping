@@ -1,4 +1,4 @@
-import 'package:list_shopping/data/models/categories.dart';
+import 'package:list_shopping/data/models/category.dart';
 
 class GroceryItem {
   GroceryItem({
